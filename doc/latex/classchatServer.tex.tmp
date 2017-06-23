@@ -1,0 +1,68 @@
+\hypertarget{classchatServer}{}\section{chat\+Server Class Reference}
+\label{classchatServer}\index{chat\+Server@{chat\+Server}}
+
+
+Inheritance diagram for chat\+Server\+:
+% FIG 0
+
+
+Collaboration diagram for chat\+Server\+:
+% FIG 1
+\subsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+void {\bfseries odd\+Signal} ()\hypertarget{classchatServer_a2a4f9a9cf4dfb3d18f231e1f98335563}{}\label{classchatServer_a2a4f9a9cf4dfb3d18f231e1f98335563}
+
+\item 
+void {\bfseries even\+Signal} ()\hypertarget{classchatServer_aa3c46e1ccb0845cd0feb41f414a3439d}{}\label{classchatServer_aa3c46e1ccb0845cd0feb41f414a3439d}
+
+\item 
+void {\bfseries zero\+Signal} ()\hypertarget{classchatServer_ad1648d4f646b0bf9a9a99af121bc31c0}{}\label{classchatServer_ad1648d4f646b0bf9a9a99af121bc31c0}
+
+\item 
+void {\bfseries one\+Signal} ()\hypertarget{classchatServer_af347d9cb8d73b0c582d418ee0bc06adc}{}\label{classchatServer_af347d9cb8d73b0c582d418ee0bc06adc}
+
+\item 
+void {\bfseries two\+Signal} ()\hypertarget{classchatServer_ab3fc4b8ce6f096e4fea005759f4cab85}{}\label{classchatServer_ab3fc4b8ce6f096e4fea005759f4cab85}
+
+\item 
+void {\bfseries three\+Signal} ()\hypertarget{classchatServer_a7139782d7c977cbef28a813998687b82}{}\label{classchatServer_a7139782d7c977cbef28a813998687b82}
+
+\item 
+void {\bfseries four\+Signal} ()\hypertarget{classchatServer_a1756ea9dfbacd4f39dc9c02306acd27f}{}\label{classchatServer_a1756ea9dfbacd4f39dc9c02306acd27f}
+
+\item 
+void {\bfseries five\+Signal} ()\hypertarget{classchatServer_a366cd0643d5c1cd479934b56502b8bd1}{}\label{classchatServer_a366cd0643d5c1cd479934b56502b8bd1}
+
+\item 
+void {\bfseries six\+Signal} ()\hypertarget{classchatServer_aaa90a3e4b0da2344535651a152c6ea47}{}\label{classchatServer_aaa90a3e4b0da2344535651a152c6ea47}
+
+\item 
+void {\bfseries seven\+Signal} ()\hypertarget{classchatServer_a7467f91dbb5acc6dc5a903bb53fd5ece}{}\label{classchatServer_a7467f91dbb5acc6dc5a903bb53fd5ece}
+
+\item 
+void {\bfseries eight\+Signal} ()\hypertarget{classchatServer_adef8d78d0338085805a510bfd2d8cc69}{}\label{classchatServer_adef8d78d0338085805a510bfd2d8cc69}
+
+\item 
+void {\bfseries trun\+End\+Signal} ()\hypertarget{classchatServer_a50d9e1ca5e4db4f34d64d59a5849ddb8}{}\label{classchatServer_a50d9e1ca5e4db4f34d64d59a5849ddb8}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+{\bfseries chat\+Server} (Q\+Object $\ast$parent=0)\hypertarget{classchatServer_a530765204e5802c47dba230f98c687f2}{}\label{classchatServer_a530765204e5802c47dba230f98c687f2}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void {\bfseries incoming\+Connection} (int socketfd)\hypertarget{classchatServer_aa8f1711328d5da17afb9f6526c59578b}{}\label{classchatServer_aa8f1711328d5da17afb9f6526c59578b}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+chatserver.\+h\item 
+dialog.\+cpp\item 
+moc\+\_\+chatserver.\+cpp\end{DoxyCompactItemize}
